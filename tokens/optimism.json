@@ -7,7 +7,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/ether.png",
     "coingeckoId": null,
-    "usdPrice": "3756.05017207626086287566",
+    "usdPrice": "3608.48822392977450847459",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -46,7 +46,7 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
     "coingeckoId": "limited-usd",
-    "usdPrice": "0.98950181156066058763",
+    "usdPrice": "0.98868814783421976194",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "644062.19532952971191205155543877856569103918"
@@ -59,10 +59,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/velo.webp",
     "coingeckoId": null,
-    "usdPrice": "0.1230440321080879315",
+    "usdPrice": "0.11986544846175921165",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "420421.87424812213419580392244264002829696389"
+    "tvl": "425038.6811614580779005893028050481621500991"
   },
   {
     "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
@@ -86,7 +86,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/dai.png",
     "coingeckoId": "dai",
-    "usdPrice": "0.99948614264152662157",
+    "usdPrice": "0.99916653263908662659",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "333376.60321842108917812924647265831132100153"
@@ -99,7 +99,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/mai.png",
     "coingeckoId": null,
-    "usdPrice": "0.35345618305950413578",
+    "usdPrice": "0.35108186053033663095",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "169443.1667968862922841129429816553335872432"
@@ -112,10 +112,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/PERP/logo.png",
     "coingeckoId": "perpetual-protocol",
-    "usdPrice": "1.75579015819871079002",
+    "usdPrice": "1.62690746943496520391",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "742193.44406351072523997850672646189203357516"
+    "tvl": "742076.62621593244855404750546682233067802478"
   },
   {
     "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
@@ -125,7 +125,7 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/DOLA/logo.png",
     "coingeckoId": "dola-usd",
-    "usdPrice": "0.99083900486377452451",
+    "usdPrice": "0.99000596985566644437",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "350622.47925469541060000730236902144162979217"
@@ -138,10 +138,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/OP/logo.png",
     "coingeckoId": "optimism",
-    "usdPrice": "3.88369010924505379514",
+    "usdPrice": "3.65758694057627752772",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "1521611.5391686545870422357230959553129729418"
+    "tvl": "1514553.854722433947756386676805573058533189"
   },
   {
     "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
@@ -151,7 +151,7 @@
     "decimals": 6,
     "logo": "https://ethereum-optimism.github.io/data/USDT/logo.png",
     "coingeckoId": "tether",
-    "usdPrice": "1.00020604244474361719",
+    "usdPrice": "0.999650122457140001",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "234429.32009693996963488361062383"
@@ -164,10 +164,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/WETH/logo.png",
     "coingeckoId": "weth",
-    "usdPrice": "3756.05017207626086287566",
+    "usdPrice": "3608.48822392977450847459",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "6570876.9445076285476879975349546228787860537"
+    "tvl": "6578744.8399860551188235837033941789690281089"
   },
   {
     "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
@@ -177,10 +177,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/rETH/logo.png",
     "coingeckoId": "realms-of-ethernity",
-    "usdPrice": "4128.18077819628152681945",
+    "usdPrice": "3965.99913257816935514769",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "3214263.18704008482130289117475328836407759816"
+    "tvl": "3215708.95413214221479579414268896115011389747"
   },
   {
     "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
@@ -190,10 +190,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
     "coingeckoId": "seth",
-    "usdPrice": "3755.73807420690020519638",
+    "usdPrice": "3608.18838728364180590617",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "1162107.50214839840766447556097812852927158344"
+    "tvl": "1163498.99683606587134024314660988100908527956"
   },
   {
     "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
@@ -203,10 +203,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
     "coingeckoId": "lyra-finance",
-    "usdPrice": "0.14130621369038408911",
+    "usdPrice": "0.14021853046513889119",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "69962.59085775732566029780819968614406062632"
+    "tvl": "70103.88655236469262131047932678218153864888"
   },
   {
     "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
@@ -216,10 +216,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
     "coingeckoId": "wrapped-steth",
-    "usdPrice": "4355.73316034999672737955",
+    "usdPrice": "4184.61178515489257461201",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "665784.17782349262152039090735583004501715174"
+    "tvl": "666581.38044447366769703530212684156260025465"
   },
   {
     "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
@@ -229,10 +229,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
     "coingeckoId": "havven",
-    "usdPrice": "4.47410795546126804286",
+    "usdPrice": "4.1948671240785084702",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "67248.44029617418610119133983358495441348186"
+    "tvl": "66961.54921942274159713893397043043781011138"
   },
   {
     "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
@@ -242,10 +242,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
     "coingeckoId": "lido-dao",
-    "usdPrice": "3.06948824272084530547",
+    "usdPrice": "2.91437681398619704431",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "49580.11255998115631224411844009817185725303"
+    "tvl": "49408.17748864374927072337365467239920688157"
   },
   {
     "address": "0x2e80259C9071B6176205FF5F5Eb6F7EC8361b93f",
@@ -256,10 +256,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.06509675882831890685",
+    "usdPrice": "0.06253933703929662454",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "34206.27444200348629833354298099357590962578"
+    "tvl": "34247.2326572141691486928677381838478743172"
   },
   {
     "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
@@ -270,10 +270,10 @@
     "logo": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
     "unlisted": false,
     "coingeckoId": "dhedge-dao",
-    "usdPrice": "0.14717846910585412222",
+    "usdPrice": "0.13860993833007551836",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "21339.3830258001987795720367537881331171024"
+    "tvl": "21240.40465464811090819973366455249418651931"
   },
   {
     "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
@@ -283,7 +283,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/frax.png",
     "coingeckoId": null,
-    "usdPrice": "15.50131111105331479122",
+    "usdPrice": "15.39718190362504260787",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "794788.82650181464313512986623183259737278248"
@@ -309,10 +309,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/hop.webp",
     "coingeckoId": null,
-    "usdPrice": "0.06352447911392458339",
+    "usdPrice": "0.06055794386036285466",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "12360.42044159293101953093588439633743568252"
+    "tvl": "12375.22067250961996317597736647934233473457"
   },
   {
     "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
@@ -364,10 +364,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "3689.40130291275163491177",
+    "usdPrice": "3542.17802037416174365317",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "1349435.12237178067882542840005393928911857952"
+    "tvl": "1351050.9210828817148330819272134189849842344"
   },
   {
     "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
@@ -378,10 +378,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "4041.662441081814834366",
+    "usdPrice": "3881.79132185199636643636",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "474789.03092255371539050857488597285466482816"
+    "tvl": "475530.13546476944723802511003507355362695762"
   },
   {
     "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
@@ -391,10 +391,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/bifi.webp",
     "coingeckoId": null,
-    "usdPrice": "2.50312100082694338789",
+    "usdPrice": "2.39044912100088334178",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "1584.36752840351080660791763976732396883306"
+    "tvl": "1586.26463258278043446976200064283407766024"
   },
   {
     "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
@@ -405,10 +405,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "119.86471242682626409207",
+    "usdPrice": "113.49947187747053689427",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "68907.52105176065617858733811429720811470042"
+    "tvl": "68990.03015638875335837012341511436273657921"
   },
   {
     "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
@@ -458,10 +458,10 @@
     "decimals": 18,
     "logo": null,
     "coingeckoId": null,
-    "usdPrice": "3341.78302960090072763027",
+    "usdPrice": "3210.17007031629816262282",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "145885.875655593452977372262860814539448463"
+    "tvl": "146045.7217732423140014847376416117328411266"
   },
   {
     "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
@@ -471,10 +471,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/sonne.webp",
     "coingeckoId": null,
-    "usdPrice": "0.07199239317470103005",
+    "usdPrice": "0.07183081183426431134",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "25035.105779077487290137212527114105604175"
+    "tvl": "25048.02686161371329723559877072239739605"
   },
   {
     "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
@@ -484,10 +484,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/THALES/logo.png",
     "coingeckoId": "thales",
-    "usdPrice": "0.3653426986821948693",
+    "usdPrice": "0.35433136430209484849",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "37675.79673320515591133345820751120994265417"
+    "tvl": "37271.66929543916856885652373792593033581608"
   },
   {
     "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
@@ -524,7 +524,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/mim.png",
     "coingeckoId": null,
-    "usdPrice": "0.99189620910206732521",
+    "usdPrice": "0.99161491986906187249",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "25737.17574047684803954481442927473462728835"
@@ -537,10 +537,10 @@
     "decimals": 18,
     "logo": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
     "coingeckoId": "aelin",
-    "usdPrice": "487.89468514117016268122",
+    "usdPrice": "468.72702578321473446476",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "17863.84289545567261168049494205924986746936"
+    "tvl": "17885.23286363365834669368825220959657886764"
   },
   {
     "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
@@ -550,7 +550,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/fxs.webp",
     "coingeckoId": null,
-    "usdPrice": "133.03251434729959594837",
+    "usdPrice": "129.78702095307304026323",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "312007.52869727808859078201570673630488198788"
@@ -577,7 +577,7 @@
     "decimals": 8,
     "logo": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
     "coingeckoId": "wrapped-bitcoin",
-    "usdPrice": "68494.099",
+    "usdPrice": "66168.83",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -591,7 +591,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "1.0615609",
+    "usdPrice": "1.06179251",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -605,7 +605,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "3878.69830392",
+    "usdPrice": "3724.88467027",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -619,7 +619,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "689999466312400",
+    "usdPrice": "666575063815300",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
