@@ -59,10 +59,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png",
     "coingeckoId": "ethereum",
-    "usdPrice": "2514.46008685993757708239",
+    "usdPrice": "2515.4133147930662965072",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "9514.9557943247854056204627138353129449965"
+    "tvl": "9545.17911947395433316909707384188692411643"
   },
   {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
@@ -72,10 +72,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
     "coingeckoId": "celo",
-    "usdPrice": "0.42962306190570580654",
+    "usdPrice": "0.42916948073354138009",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "287818.88859879174843742340177685811639258872"
+    "tvl": "288597.63286120130961650389031088428829267852"
   },
   {
     "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
@@ -85,10 +85,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png",
     "coingeckoId": "mcelo",
-    "usdPrice": "0.42962306190570580654",
+    "usdPrice": "0.42916948073354138009",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "14481.95215101572317703533684407034335921272"
+    "tvl": "14521.13560141745834918424679099761072146252"
   },
   {
     "address": "0xd71Ffd0940c920786eC4DbB5A12306669b5b81EF",
@@ -126,10 +126,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png",
     "coingeckoId": "celo-euro",
-    "usdPrice": "1.037526505879899277",
+    "usdPrice": "1.03815572088300545799",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "16160.46637563025453180266065260981332795192"
+    "tvl": "16183.63539789356590253771710413072422304876"
   },
   {
     "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
@@ -139,10 +139,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png",
     "coingeckoId": "mceur",
-    "usdPrice": "1.037526505879899277",
+    "usdPrice": "1.03815572088300545799",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "190219.8158358117446430348408450833389033564909914024509262212"
+    "tvl": "190492.5311798855341636479683876867703844028653670216044220186"
   },
   {
     "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
@@ -153,10 +153,10 @@
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/usdtet.png",
     "unlisted": false,
     "coingeckoId": "tether",
-    "usdPrice": "1.00033808592746347982",
+    "usdPrice": "1.00029506532386349129",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "34897.97627671446207899529772056"
+    "tvl": "34897.94137231577600650477592574"
   },
   {
     "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
@@ -179,10 +179,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png",
     "coingeckoId": "weth",
-    "usdPrice": "2509.46297950032912488889",
+    "usdPrice": "2506.1895427872717211461",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "141810.47257188171218321610377838940495931798"
+    "tvl": "142825.90355251851821044609435802885851705401"
   },
   {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
@@ -192,10 +192,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png",
     "coingeckoId": "ubeswap",
-    "usdPrice": "0.00007892731672564468",
+    "usdPrice": "0.00007884398799399464",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "2228.13187355105394471160316384595605242849"
+    "tvl": "2234.16047341420762592205921701608066180364"
   },
   {
     "address": "0xC16B81Af351BA9e64C1a069E3Ab18c244A1E3049",
@@ -206,7 +206,7 @@
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/ageur.webp",
     "unlisted": false,
     "coingeckoId": "ageur",
-    "usdPrice": "1.03828722980196484756",
+    "usdPrice": "1.03827335562755812296",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -220,7 +220,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "1.00034897902191844189",
+    "usdPrice": "1.0003498075315369843",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -233,7 +233,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETHIX.png",
     "coingeckoId": "ethichub",
-    "usdPrice": "0.14024342038748427117",
+    "usdPrice": "0.14028696131755582208",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "8207.03582643132602769882663280386159186672"
@@ -287,7 +287,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.98543338766875847671",
+    "usdPrice": "0.98413671786259063925",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -300,7 +300,7 @@
     "decimals": 18,
     "logo": null,
     "coingeckoId": null,
-    "usdPrice": "0.00484673765690839397",
+    "usdPrice": "0.00484162063889301452",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -326,7 +326,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg",
     "coingeckoId": "compound-ether",
-    "usdPrice": "2303.64722414601517470773",
+    "usdPrice": "2299.34816962048577274865",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "59455.49955645498238434361965880088160774588"
@@ -353,10 +353,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOO.png",
     "coingeckoId": "moola-market",
-    "usdPrice": "0.00289167951382123402",
+    "usdPrice": "0.00288862657858636814",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "11140.90278366097369157532736426308393021648"
+    "tvl": "11171.04644158098106863589832670312116068512"
   },
   {
     "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
@@ -366,10 +366,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png",
     "coingeckoId": "impactmarket",
-    "usdPrice": "5.5416263215887e-7",
+    "usdPrice": "5.5357756641508e-7",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "37.1263976600691212071887548850664406544"
+    "tvl": "37.2268496119973154302526335258218141968"
   },
   {
     "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
@@ -406,7 +406,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.24528949804055801121",
+    "usdPrice": "0.24644337236738006614",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -458,7 +458,7 @@
     "decimals": 18,
     "logo": null,
     "coingeckoId": null,
-    "usdPrice": "2720.98739452082478027764",
+    "usdPrice": "2715.90950192958410051033",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "11063.16185152781781918515022497386596965502"
@@ -485,10 +485,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00087191567437723854",
+    "usdPrice": "0.00087409106845569588",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "178.4301362220795498556288946133"
+    "tvl": "176.69250281741376706234187291226"
   },
   {
     "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
@@ -498,10 +498,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png",
     "coingeckoId": "moola-interest-bearing-creal",
-    "usdPrice": "0.17212589073900138249",
+    "usdPrice": "0.1719441661757646496",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "5192.97303597074292115813830375680645807323"
+    "tvl": "5207.02353132321073817010781828426780613403"
   },
   {
     "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
@@ -514,7 +514,7 @@
     "usdPrice": "23.84444363326836990829",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "13981.1908528943061899893402870941207436564"
+    "tvl": "13981.1686730498702075546849725050576750452"
   },
   {
     "address": "0xc3377Ea71F1dc8e55Ba360724eff2d7aD62a8670",
@@ -577,10 +577,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOL.png",
     "coingeckoId": "solana",
-    "usdPrice": "176.65424895494734750924",
+    "usdPrice": "176.46774350769927169519",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "39364.1582892440439722599451011603411322227"
+    "tvl": "39470.66489331568256107818965186264557951912"
   },
   {
     "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
@@ -590,10 +590,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png",
     "coingeckoId": "truefeedbackchain",
-    "usdPrice": "6.630343379309e-8",
+    "usdPrice": "6.62334329205e-8",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "1.1786146787997216548090624161861973956"
+    "tvl": "1.18180362662442371057420107566335957045"
   },
   {
     "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -603,10 +603,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOBI.png",
     "coingeckoId": "mobius",
-    "usdPrice": "0.00001562524434891838",
+    "usdPrice": "0.00001560874775626412",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "3610.3236419268544701660022966479670183296"
+    "tvl": "3620.09200297945643224584873204709638401712"
   },
   {
     "address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
@@ -642,7 +642,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png",
     "coingeckoId": null,
-    "usdPrice": "0.38023101543765365787",
+    "usdPrice": "0.37982958068014677608",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "10498.66638966922102081857948764221390639696"
@@ -656,10 +656,10 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00000717466688132529",
+    "usdPrice": "0.00000716709211613582",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "2046.2066065640404279671104627748805341079"
+    "tvl": "2051.74297584933519202995170904785632763931"
   },
   {
     "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
@@ -669,10 +669,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/sushi.svg",
     "coingeckoId": "sushi",
-    "usdPrice": "0.44515967549000363417",
+    "usdPrice": "0.44468969129848132635",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "284.99493279630026812817722965901593364845"
+    "tvl": "285.76603635316338428913996894343129737807"
   },
   {
     "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
@@ -682,10 +682,10 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png",
     "coingeckoId": null,
-    "usdPrice": "0.00052428586571241301",
+    "usdPrice": "0.00052373234282547992",
     "last24hrsPrice": null,
     "last7daysPrice": null,
-    "tvl": "88.0083131731486435197631365015944663665"
+    "tvl": "88.24643503256374992899830856903809315955"
   },
   {
     "address": "0xDc5762753043327d74e0a538199c1488FC1F44cf",
@@ -695,7 +695,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/celo-tracker/tokens/main/logos/rstcelo.webp",
     "coingeckoId": null,
-    "usdPrice": "0.42900011203392234587",
+    "usdPrice": "0.42854718855069060813",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "756.62503294549274556795907984577205136896"
@@ -708,7 +708,7 @@
     "decimals": 18,
     "logo": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png",
     "coingeckoId": "celo-real-creal",
-    "usdPrice": "0.16906410950908160443",
+    "usdPrice": "0.16903795152501856099",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": "0"
@@ -722,7 +722,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "1.00019203539851383855",
+    "usdPrice": "1.0001830275709615967",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -736,7 +736,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "147.48655265427145440275",
+    "usdPrice": "147.48522437591533354297",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -778,7 +778,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "1.00018403386223065044",
+    "usdPrice": "1.00014101988380361631",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -806,7 +806,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00767152764685361963",
+    "usdPrice": "0.00767120076100441408",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -834,7 +834,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00160917633068162583",
+    "usdPrice": "0.00160926752446664041",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1002,7 +1002,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.01006096590484089058",
+    "usdPrice": "0.01005034388495214993",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1016,7 +1016,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.16923998345636679534",
+    "usdPrice": "0.16923270511083145108",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1030,7 +1030,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00392153644049233187",
+    "usdPrice": "0.00391598745564753908",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1044,7 +1044,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.0172872622675841684",
+    "usdPrice": "0.01728646351235765187",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1100,7 +1100,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.0002401238654068858",
+    "usdPrice": "0.000240113538624597",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1114,7 +1114,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00005250367001232142",
+    "usdPrice": "0.00005250371349694181",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1128,7 +1128,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00024335374758509549",
+    "usdPrice": "0.00024335151129720277",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1142,7 +1142,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.00991217867152738298",
+    "usdPrice": "0.00991218688099782008",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1156,7 +1156,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "1.0033019733300499161",
+    "usdPrice": "1.0032929374940916942",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
@@ -1170,7 +1170,7 @@
     "logo": null,
     "unlisted": false,
     "coingeckoId": null,
-    "usdPrice": "0.04412967769163586342",
+    "usdPrice": "0.04408308710395692789",
     "last24hrsPrice": null,
     "last7daysPrice": null,
     "tvl": null
